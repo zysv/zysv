@@ -16,6 +16,6 @@
 <h3 align="center">What I want to learn / What I am currently learning</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,git,nextjs,nginx&coding=cute" />
+    <img src="https://skillicons.dev/icons?i=ts,git,nextjs,nginx,rust&coding=cute" />
   </a>
 </p>

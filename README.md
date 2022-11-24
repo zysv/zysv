@@ -9,13 +9,13 @@
 <h3 align="center">Programming Languages I code in</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bash,c,cs,cpp,dotnet,js,nodejs,powershell,py&coding=cute" />
+    <img src="https://skillicons.dev/icons?i=bash,cs,cpp,dotnet,js,nodejs,powershell,py,rust&coding=cute" />
   </a>
 </p>
 
 <h3 align="center">What I want to learn / What I am currently learning</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,nextjs,nginx,rust&coding=cute" />
+    <img src="https://skillicons.dev/icons?i=c,ts,nextjs,nginx&coding=cute" />
   </a>
 </p>
